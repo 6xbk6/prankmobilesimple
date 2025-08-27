@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prankmobilesimple/static/css/main.c544a659.css",
+    "main.js": "/prankmobilesimple/static/js/main.f45994f4.js",
+    "static/js/453.d64cfb55.chunk.js": "/prankmobilesimple/static/js/453.d64cfb55.chunk.js",
+    "index.html": "/prankmobilesimple/index.html",
+    "main.c544a659.css.map": "/prankmobilesimple/static/css/main.c544a659.css.map",
+    "main.f45994f4.js.map": "/prankmobilesimple/static/js/main.f45994f4.js.map",
+    "453.d64cfb55.chunk.js.map": "/prankmobilesimple/static/js/453.d64cfb55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544a659.css",
+    "static/js/main.f45994f4.js"
+  ]
+}
